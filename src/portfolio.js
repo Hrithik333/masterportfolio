@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Hrithik Tiwari Portfolio",
     type: "website",
-    url: "",
+    url: "https://hrithik333.github.io/masterportfolio/",
   },
 };
 
