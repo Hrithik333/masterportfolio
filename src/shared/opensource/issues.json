@@ -1,0 +1,33 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "I_kwDOAffHH85M2vjV",
+      "closed": true,
+      "title": "twowaits/make-pull-request",
+      "createdAt": "2022-06-30T00:02:58Z",
+      "url": "https://github.com/twowaits/make-pull-request/issues/675",
+      "number": 16735,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "",
+            "name": "Hrithik",
+            "url": "https://github.com/twowaits/make-pull-request/issues/675"
+          }
+        ]
+      },
+      "repository": {
+        "name": "twowaits",
+        "url": "https://github.com/twowaits/make-pull-request/issues/675",
+        "owner": {
+          "login": "twowaits",
+          "avatarUrl": "",
+          "url": "https://github.com/twowaits/make-pull-request/issues/675"
+        }
+      }
+    }
+  ],
+  "open": 0,
+  "totalCount": 1
+}

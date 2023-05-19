@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "masterPortfolio",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "rtfohttps://github.com/Hrithik333/masterPolio",
+      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Digtal reporting Tool",
+      "createdAt": "2021-01-06T06:36:41Z",
+      "url": "https://github.com/Hrithik333/drt-trimark-backend-service-master",
+      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Postman",
+          "iconifyClass": "logos-postman"
+        },
+        {
+          "name": "Mongodb",
+          "iconifyClass": "logos-mongodb"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Python Flask Authentiation Website",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/Hrithik333/Flask-website",
+      "description": "Developed backend features such as login, signup, and registration using HTTP POST endpoints and  Implemented HTTP GET endpoints for authentication with JWT Auth token for login and signup.Utilized Postman for API testing.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Postman",
+          "iconifyClass": "logos-postman"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "AgriCart(web Development)",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/Hrithik333/Agricart",
+      "description": "⚙️ This project aims to develop an e-commerce vegetable and fruit store where farmers can profit by selling their fruits and vegetables to customers directly from their farms. The website cuts the long business chain between farmers and customers so that farmers can earn a good profit. Agri Cart pays the profit to the farmers directly within 24 hours of the payment received from the customer",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Tasky-manager",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/Hrithik333/Tasky-manager",
+      "description": "🌀  Made Tasky-manager in which user can update Article details and built cards ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": " Random Password Generation",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/Hrithik333/password-generator",
+      "description": "🌀  Created password generation using javascript and able to generate and password of any choice like Upper letter, lower letter,Symbol and length of password.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "MakeCareeEasy(Web Application)",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/Hrithik333/makecareereasy",
+      "description": "🌀 Career Chela(Web Application) Work with the Lead team of 5 to develop a Web application for students, workers and faculty to obtain information regarding various interest areas like career, internship, jobs, company & specialization. Providing information about career",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos-django"
+        }
+      ]
+    }
+      ]
+    }
+  
+

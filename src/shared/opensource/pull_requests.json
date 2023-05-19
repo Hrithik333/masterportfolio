@@ -1,0 +1,115 @@
+{
+  "closed": 5,
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
+      "title": "NEW YEAR COUNTDOWN GAME #327",
+      "url": "https://github.com/Ayush7614/Bundli-Frontend/pull/327",
+      "state": "MERGED",
+      "mergedBy": "Ayush7614",
+      "createdAt": "2020-04-27T11:34:31Z",
+      "number": 1746,
+      "changedFiles": 2,
+      "additions": 1,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "addons",
+        "url": "https://github.com/Ayush7614/Bundli-Frontend",
+        "owner": {
+          "avatarUrl": "",
+          "login": "Bundli-Frontend",
+          "url": "https://github.com/Ayush7614/Bundli-Frontend"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
+      "title": "BUTTON RIPPLE EFFECT #323",
+      "url": "https://github.com/Ayush7614/Bundli-Frontend/issues/323",
+      "state": "MERGED",
+      "mergedBy": "Ayush7614",
+      "createdAt": "2020-04-27T11:34:31Z",
+      "number": 1746,
+      "changedFiles": 2,
+      "additions": 1,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "addons",
+        "url": "https://github.com/Ayush7614/Bundli-Frontend",
+        "owner": {
+          "avatarUrl": "",
+          "login": "Bundli-Frontend",
+          "url": "https://github.com/Ayush7614/Bundli-Frontend"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
+      "title": "NEW YEAR COUNTDOWN #325",
+      "url": "https://github.com/Ayush7614/Bundli-Frontend/issues/325",
+      "state": "MERGED",
+      "mergedBy": "Ayush7614",
+      "createdAt": "2020-04-27T11:34:31Z",
+      "number": 1746,
+      "changedFiles": 2,
+      "additions": 1,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "addons",
+        "url": "https://github.com/Ayush7614/Bundli-Frontend",
+        "owner": {
+          "avatarUrl": "",
+          "login": "Bundli-Frontend",
+          "url": "https://github.com/Ayush7614/Bundli-Frontend"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
+      "title": "Linked List Components (LEETCODE) #2411",
+      "url": "https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/issues/2411",
+      "state": "MERGED",
+      "mergedBy": "Ayush7614",
+      "createdAt": "2020-04-27T11:34:31Z",
+      "number": 1746,
+      "changedFiles": 2,
+      "additions": 1,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "addons",
+        "url": "https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice",
+        "owner": {
+          "avatarUrl": "",
+          "login": "Daily-Coding-DS-ALGO-Practice",
+          "url": "https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
+      "title": "Sum of Left Leaves #2415",
+      "url": "https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/issues/2415",
+      "state": "MERGED",
+      "mergedBy": "Ayush7614",
+      "createdAt": "2020-04-27T11:34:31Z",
+      "number": 1746,
+      "changedFiles": 2,
+      "additions": 1,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "addons",
+        "url": "https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice",
+        "owner": {
+          "avatarUrl": "",
+          "login": "Daily-Coding-DS-ALGO-Practice",
+          "url": "https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice"
+        }
+      }
+    }
+      
+
+  ],
+  "merged": 5,
+  "open": 0,
+  "totalCount": 5
+}
